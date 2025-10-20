@@ -1,7 +1,7 @@
 # Neteeo 🚀💻
 
 ![Organization](https://img.shields.io/badge/organization-Neteeo-blue?style=flat-square&logo=github)
-![Website](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online?style=flat-square&url=https%3A%2F%2Fneteeo.com)
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fneteeo.com)
 
 **Neteeo** — modern web & software engineering studio. 🌐💡  
 We create professional, fast, and fully responsive websites, as well as advanced IT solutions using **C#**, **Python**, and **Node.js**.  
